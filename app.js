@@ -19,7 +19,7 @@ alert('Welcome to my site ' + name + '!')
     ['3', 'not 3']
   ]
 
-  for (i = 0; i < 1 || i < question.length; i++) {
+  for (i = 0; i < question.length; i++) {
 
   question[i] = prompt(question[i])
 
